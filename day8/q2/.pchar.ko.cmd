@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/Assign/LDD/day8/q2/pchar.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sunbeam/Assign/LDD/day8/q2/pchar.ko /home/sunbeam/Assign/LDD/day8/q2/pchar.o /home/sunbeam/Assign/LDD/day8/q2/pchar.mod.o

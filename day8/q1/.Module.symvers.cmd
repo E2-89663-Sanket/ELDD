@@ -1,0 +1,1 @@
+savedcmd_/home/sunbeam/Assign/LDD/day8/q1/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/sunbeam/Assign/LDD/day8/q1/Module.symvers -T /home/sunbeam/Assign/LDD/day8/q1/modules.order -i Module.symvers -e 
